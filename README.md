@@ -8,6 +8,14 @@ This project is random value in subset and mapping value from the main set to an
 
 ## Project status
 
-- [] CRUD main set
+- [x] Design
+- [x] Mockups
+- [x] Development
+- [x] Unit testing
+- [ ] QA
+- [ ] Stage
+- [ ] Beta Testing
+- [ ] Production
+- [x] CRUD main set
 - [] CRUD sub set
 - [] CRUD sub set value
