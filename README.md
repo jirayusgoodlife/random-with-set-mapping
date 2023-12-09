@@ -6,8 +6,8 @@ This project is random value in subset and mapping value from the main set to an
 
 [VS Code](https://code.visualstudio.com/) + [Svelte](https://svelte.dev/) + [Vite](https://vitejs.dev/) + [Tailwind CSS](https://tailwindcss.com/)
 
-## Todo lists
+## Project status
 
-[ ] CRUD main set
-[ ] CRUD sub set
-[ ] CRUD sub set value
+- [] CRUD main set
+- [] CRUD sub set
+- [] CRUD sub set value
